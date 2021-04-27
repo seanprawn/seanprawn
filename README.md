@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seanprawn
-- 👀 I’m interested in Android development
+- 👀 I am currently a Full-stack Java developer who is passionate about learning more about Android development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on any project to help improve my skills
+- 💞️ I’m looking to collaborate on any project to help improve my android skills
 - 📫 How to reach me seansound@gmail.com
 
 <!---
