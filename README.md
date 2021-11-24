@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sean
-- 👀 I am currently a Full-stack Java developer who is passionate about learning more about Android development with Kotlin
+- 👀 I am currently a backend Java developer who is always passionate about learning more about Software.
 - 🌱 I’m always learning 
-- 💞️ I’m looking to collaborate on any project to help improve my android skills
+- 💞️ I’m looking to collaborate on any project to help improve my skills
 - 📫 How to reach me seansound@gmail.com
 
 <!---
